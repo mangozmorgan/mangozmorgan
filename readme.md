@@ -1,4 +1,4 @@
-Salut toi !!
+<center>Salut toi !!</center>
 ============
 
 ** cava **
