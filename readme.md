@@ -1,7 +1,8 @@
 Bienvenue sur mon GitHub !
 ==========================
-
-<center>Centered text</center>
+<p align="justify">
+  Lorem ipsum
+</p>
 
 
 ** cava **
