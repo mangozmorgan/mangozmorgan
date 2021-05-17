@@ -1,8 +1,9 @@
-Bienvenue sur mon GitHub !
+Bienvenue à toi !
 ==========================
-<p align="justify">
-  Lorem ipsum
-</p>
+
+Qu'est ce que tu va trouver ici ?
+---------------------------------
+
 
 
 ** cava **
