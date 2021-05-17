@@ -7,7 +7,5 @@ Bienvenue à toi !
 ```
 
 ```css
-Votre message en CSS```
+Votre message en CSS
 
-```md
-#Votre message en md```
