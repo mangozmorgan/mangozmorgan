@@ -5,9 +5,7 @@ Bienvenue à toi !
 #Qu'est ce que tu va trouver ici ?
 
 ```
----
-output: pdf_document
----
+Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
 
 
 ** cava **
