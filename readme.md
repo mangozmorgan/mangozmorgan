@@ -1,7 +1,7 @@
 Bienvenue à toi !
 ==========================
 
-```diff
+```NODE
 #Qu'est ce que tu va trouver ici ?
 
 ```
