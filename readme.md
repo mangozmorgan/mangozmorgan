@@ -5,7 +5,17 @@ Bienvenue à toi !
 #Qu'est ce que tu va trouver ici ?
 
 ```
-Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
+// resets
+s { text-decoration:none; } //strike-through
+em { font-style: normal; font-weight: bold; } //italic emphasis
+
+
+// colors
+s { color: green }
+em { color: blue }
+
+~~This is green~~
+_this is blue_
 
 
 ** cava **
