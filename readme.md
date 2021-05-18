@@ -24,7 +24,15 @@ Technos pratiqués 💻 :
 
 Qu'est ce que tu va trouver ici 🤔 ?
 ------------------------------------     
-        Des projets , des petits boûts de code , et sûrement quelques erreurs , mais c'est comme ça qu'on apprend non ? 
+        Des projets ,
+        des petits boûts de code , 
+        et sûrement quelques *erreurs* , mais c'est comme ça qu'on apprend non ? 
+        
+        
+        N'hésite pas a faire un petit retour si quelques chose ta intéréssé , 
+        des questions , ou simplement discuter un peu 😉 .
+        
+        Bonne navigation !
 
 
           - 
