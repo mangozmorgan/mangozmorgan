@@ -32,8 +32,5 @@ Qu'est ce que tu va trouver ici 🤔 ?
         N'hésite pas a faire un petit retour si quelques chose ta intéréssé , 
         des questions , ou simplement discuter un peu 😉 .
         
-        Bonne navigation !
-
-
-          - 
+        Bonne navigation !   
 
