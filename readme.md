@@ -9,7 +9,7 @@ Qui suis-je 🖐 ?
     Salut ! Moi c'est Morgan , habitant du sud de la France ( quelques petits kilomètres de Marseille ) .
         Anciennement cuisinier , j'ai découvert l'univers du développement début d'année 2020 et 
             là ce fut la révélation !
-                Curieux , interréssé par tout ce qui touche à ce domaine , ouvert à tout type de projets ! 
+                Curieux , intéressé par tout ce qui touche à ce domaine , ouvert à tout type de projets ! 
 ~~Petit~~ Gros coup de coeur pour Javascript ❤
 
 
@@ -27,11 +27,11 @@ Technos pratiqués 💻 :
 Qu'est ce que tu va trouver ici 🤔 ?
 ------------------------------------     
         Des projets ,
-        des petits boûts de code , 
+        des petits bouts de code , 
         et sûrement quelques *erreurs* , mais c'est comme ça qu'on apprend non ? 
         
         
-        N'hésite pas a faire un petit retour si quelques chose ta intéréssé , 
+        N'hésite pas à faire un petit retour si quelque chose t'a intéressé , 
         des questions , ou simplement discuter un peu 😉 .
         
         
