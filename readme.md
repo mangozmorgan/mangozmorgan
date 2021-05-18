@@ -13,6 +13,7 @@ Qui suis-je 🖐 ?
 ~~Petit~~ Gros coup de coeur pour Javascript ❤
 
 
+
 Technos pratiqués 💻 :
 ----------------------
          HTML - CSS - JAVASVRIPT
@@ -20,6 +21,7 @@ Technos pratiqués 💻 :
    *Frameworks*
    
          NodeJs - ExpressJs - Bootstrap - Tailwind 
+         
  
 
 Qu'est ce que tu va trouver ici 🤔 ?
@@ -31,6 +33,8 @@ Qu'est ce que tu va trouver ici 🤔 ?
         
         N'hésite pas a faire un petit retour si quelques chose ta intéréssé , 
         des questions , ou simplement discuter un peu 😉 .
+        
+        
         
         Bonne navigation !   
 
