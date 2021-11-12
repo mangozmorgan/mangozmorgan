@@ -16,7 +16,7 @@ Qui suis-je 🖐 ?
 
 Technos pratiqués 💻 :
 ----------------------
-         HTML - CSS - JAVASCRIPT
+         HTML - CSS - JAVASCRIPT - PHP
          
    *Frameworks*
    
