@@ -42,7 +42,8 @@ Qu'est ce que tu va trouver ici 🤔 ?
   <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
   
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mangozmorgan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangozmorgan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
    
   </div>
 </details>
