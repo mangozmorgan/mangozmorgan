@@ -71,9 +71,7 @@ Technos pratiqués 💻 :
       </p>
     </span>    
     <span>
-      <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mangozmorgan&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="mangozmorgan" />
-      </p>
     </span>
 </p>
 
