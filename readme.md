@@ -86,6 +86,7 @@ Technos pratiqués 💻 :
 
 Qu'est ce que tu va trouver ici 🤔 ?
 ------------------------------------     
+
         Des projets ,
         des petits bouts de code , 
         et sûrement quelques *erreurs* , mais c'est comme ça qu'on apprend non ? 
@@ -98,8 +99,7 @@ Qu'est ce que tu va trouver ici 🤔 ?
         
         Bonne navigation !   
         
-  
-  
-</details>
 
+Contributions 🚀 :
+----------------------
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangozmorgan&theme=dark&hide_border=true" alt="mangozmorgan" /></p>
