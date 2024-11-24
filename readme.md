@@ -17,9 +17,11 @@ Qui suis-je 🖐 ?
 Technos pratiqués 💻 :
 ----------------------
 
-<p >
+<table border="0">
+  <tr>
     <!-- Premier bloc : Icônes des technologies -->
-      <span align="left"> 
+    <td>
+      <p align="left"> 
         <a href="https://angular.io" target="_blank" rel="noreferrer"> 
           <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
         </a> 
@@ -69,11 +71,15 @@ Technos pratiqués 💻 :
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
         </a> 
       </p>
-    </span>    
-    <span>
+    </td>
+    <td>
+      <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mangozmorgan&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="mangozmorgan" />
-    </span>
-</p>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
          
  
