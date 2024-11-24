@@ -17,7 +17,7 @@ Qui suis-je 🖐 ?
 Technos pratiqués 💻 :
 ----------------------
 
-<table>
+<table border=0>
   <tr>
     <!-- Premier bloc : Icônes des technologies -->
     <td>
