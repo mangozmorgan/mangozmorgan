@@ -1,4 +1,4 @@
-<p>
+<p align="center">
     <img src="https://github.com/mangozmorgan/mangozmorgan/blob/master/image.png" alt="banner"/> 
     
 </p>
