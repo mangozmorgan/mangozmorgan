@@ -71,8 +71,7 @@ Technos pratiqués 💻 :
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
         </a> 
       </p>
-    </td>
-    
+    </td>    
     <td>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mangozmorgan&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="mangozmorgan" />
