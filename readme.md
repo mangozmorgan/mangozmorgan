@@ -12,6 +12,22 @@ Qui suis-je 🖐 ?
                 Curieux , intéressé par tout ce qui touche à ce domaine , ouvert à tout type de projets ! 
 ~~Petit~~ Gros coup de coeur pour Javascript ❤
 
+Qu'est ce que tu va trouver ici 🤔 ?
+------------------------------------     
+
+        Des projets ,
+        des petits bouts de code , 
+        et sûrement quelques *erreurs* , mais c'est comme ça qu'on apprend non ? 
+        
+        
+        N'hésite pas à faire un petit retour si quelque chose t'a intéressé , 
+        des questions , ou simplement discuter un peu 😉 .
+        
+        
+        
+        Bonne navigation !   
+        
+
 
 
 Technos pratiqués 💻 :
@@ -84,21 +100,7 @@ Technos pratiqués 💻 :
          
  
 
-Qu'est ce que tu va trouver ici 🤔 ?
-------------------------------------     
 
-        Des projets ,
-        des petits bouts de code , 
-        et sûrement quelques *erreurs* , mais c'est comme ça qu'on apprend non ? 
-        
-        
-        N'hésite pas à faire un petit retour si quelque chose t'a intéressé , 
-        des questions , ou simplement discuter un peu 😉 .
-        
-        
-        
-        Bonne navigation !   
-        
 
 Contributions 🚀 :
 ----------------------
