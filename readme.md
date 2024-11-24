@@ -102,6 +102,12 @@ Technos pratiqués 💻 :
 
 
 
-Contributions 🚀 :
+Contributions 🚀 & Rewards 🎖️ :
 ----------------------
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangozmorgan&theme=dark&hide_border=true" alt="mangozmorgan" /></p>
+<p>
+    <span>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangozmorgan&theme=dark&hide_border=true" alt="mangozmorgan" /></p>        
+    </span>
+    <span>
+        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mangozmorgan&theme=darkhub" alt="mangozmorgan" /></a>        
+    </span>
