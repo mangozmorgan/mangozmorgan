@@ -38,12 +38,6 @@ Qu'est ce que tu va trouver ici 🤔 ?
         
   
   
-  <div align="center">
-  
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangozmorgan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/mangozmorgan)
-
-   
-  </div>
 </details>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mangozmorgan&show_icons=true&locale=en&layout=compact" alt="mangozmorgan" /></p>
 
