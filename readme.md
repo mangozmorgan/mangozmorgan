@@ -89,7 +89,7 @@ Technos pratiqués 💻 :
     </td>
     <td>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mangozmorgan&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="mangozmorgan" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mangozmorgan&show_icons=true&locale=en&layout=compact&theme=solarized-dark&hide_border=true" alt="mangozmorgan" />
       </p>
     </td>
   </tr>
