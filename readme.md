@@ -1,7 +1,7 @@
-<p align="center">
-    <img src="https://github.com/mangozmorgan/mangozmorgan/blob/master/image.png" alt="banner"/> 
+
+<img src="https://github.com/mangozmorgan/mangozmorgan/blob/master/image.png" alt="banner"/> 
     
-</p>
+
 
 Qui suis-je 🖐 ?
 -------------
