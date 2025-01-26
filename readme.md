@@ -5,7 +5,7 @@
 
 Qui suis-je 🖐 ?
 
-    Hello, je suis Morgan, un passionné de développement basé dans le sud de la France, à quelques kilomètres de Marseille.
+Hello, je suis Morgan, un passionné de développement basé dans le sud de la France, à quelques kilomètres de Marseille.
 
     Après avoir commencé ma carrière en tant que cuisinier, j'ai découvert le monde du développement début 2020, et ce fut une véritable révélation !
     Depuis, je me suis lancé à fond dans cette nouvelle aventure, curieux et avide de découvrir tout ce que le domaine a à offrir.
