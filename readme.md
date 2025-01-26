@@ -98,7 +98,7 @@ Technos pratiqués 💻 :
     
  
 
- ![Snake animation](https://github.com/mangozmorgan/mangozmorgan/blob/output/github-contribution-grid-snake.svg?theme=dark)
+ ![Snake animation](https://github.com/mangozmorgan/mangozmorgan/blob/output/github-contribution-grid-snake-dark.svg)
 
 Contributions 🚀 & Rewards 🎖️ :
 ----------------------
