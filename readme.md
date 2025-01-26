@@ -17,6 +17,7 @@ J’ai également eu l’opportunité de travailler en freelance, en plus de plu
 ce qui m'a permis de développer une expertise solide et d'adopter une approche pratique dans tous les projets auxquels je participe.
     
 Je suis toujours ouvert à de nouveaux défis et projets, n'hésitez pas à me contacter si vous souhaitez collaborer ou échanger !
+
 ~~Petit~~ Gros coup de coeur pour Javascript ❤
 
 Qu'est ce que tu va trouver ici 🤔 ?
