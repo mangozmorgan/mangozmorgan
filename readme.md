@@ -7,17 +7,17 @@ Qui suis-je 🖐 ?
 
 Hello, je suis Morgan, un passionné de développement basé dans le sud de la France, à quelques kilomètres de Marseille.
 
-    Après avoir commencé ma carrière en tant que cuisinier, j'ai découvert le monde du développement début 2020, et ce fut une véritable révélation !
-    Depuis, je me suis lancé à fond dans cette nouvelle aventure, curieux et avide de découvrir tout ce que le domaine a à offrir.
+Après avoir commencé ma carrière en tant que cuisinier, j'ai découvert le monde du développement début 2020, et ce fut une véritable révélation !
+Depuis, je me suis lancé à fond dans cette nouvelle aventure, curieux et avide de découvrir tout ce que le domaine a à offrir.
     
-    Depuis août 2024, j'ai eu la chance de rejoindre La Plateforme, où je travaille en tant qu’accompagnateur pédagogique,
-    aidant les futurs développeurs à réaliser leurs projets et à se perfectionner dans leur apprentissage.
+Depuis août 2024, j'ai eu la chance de rejoindre La Plateforme, où je travaille en tant qu’accompagnateur pédagogique,
+aidant les futurs développeurs à réaliser leurs projets et à se perfectionner dans leur apprentissage.
     
-    J’ai également eu l’opportunité de travailler en freelance, en plus de plusieurs expériences en CDI,
-    ce qui m'a permis de développer une expertise solide et d'adopter une approche pratique dans tous les projets auxquels je participe.
+J’ai également eu l’opportunité de travailler en freelance, en plus de plusieurs expériences en CDI,
+ce qui m'a permis de développer une expertise solide et d'adopter une approche pratique dans tous les projets auxquels je participe.
     
-    Je suis toujours ouvert à de nouveaux défis et projets, n'hésitez pas à me contacter si vous souhaitez collaborer ou échanger !
-    ~~Petit~~ Gros coup de coeur pour Javascript ❤
+Je suis toujours ouvert à de nouveaux défis et projets, n'hésitez pas à me contacter si vous souhaitez collaborer ou échanger !
+~~Petit~~ Gros coup de coeur pour Javascript ❤
 
 Qu'est ce que tu va trouver ici 🤔 ?
 ------------------------------------     
