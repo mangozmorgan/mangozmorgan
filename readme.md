@@ -1,8 +1,15 @@
 
-<!-- Top Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:712cf5,100:ff477e&height=220&section=header&text=MORGAN&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Formateur%20Web%20%26%20Logiciel%20%E2%80%A2%20DevEnDev-Team&descAlignY=62&descAlign=50" width="100%" />
-
 <div align="center">
+
+  <!-- Header Banner -->
+  <img src="https://raw.githubusercontent.com/mangozmorgan/mangozmorgan/master/image.png" alt="Morgan Banner" width="450" />
+
+  <br/><br/>
+
+  <!-- Animated Header Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:712cf5,100:ff477e&height=180&section=header&text=MORGAN&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Formateur%20Web%20%26%20Logiciel%20%E2%80%A2%20DevEnDev-Team&descAlignY=65&descAlign=50" width="100%" />
+
+  <br/>
 
   <!-- Views Counter & Badges Header -->
   <p align="center">
@@ -42,16 +49,17 @@
 
 <!-- DevEnDev-Team Section -->
 <h3 align="center">ESPACE OPEN-SOURCE // DevEnDev-Team</h3>
-<p align="center">Retrouvez l'ensemble des projets open-source et des créations partagées sur l'organisation :</p>
+<p align="center">Retrouvez l'ensemble des projets open-source et des créations partagées sur l'espace collectif :</p>
 
 <div align="center">
-  <a href="https://github.com/DevEnDev-Team" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevEnDev-Team&show_icons=true&theme=tokyonight&hide_border=true" alt="DevEnDev-Team Stats" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/DevEnDev-Team" target="_blank">
-    <img src="https://img.shields.io/badge/DevEnDev--Team-Voir_les_dépôts_Open--Source-712cf5?style=for-the-badge&logo=github&logoColor=white" alt="DevEnDev-Team Link" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/DevEnDev-Team" target="_blank">
+      <img src="https://img.shields.io/badge/DevEnDev--Team-Espace_Open--Source-712cf5?style=for-the-badge&logo=github&logoColor=white" alt="DevEnDev-Team" />
+    </a>
+    <a href="https://github.com/DevEnDev-Team" target="_blank">
+      <img src="https://img.shields.io/github/search/DevEnDev-Team/repo?style=for-the-badge&logo=github&label=DevEnDev-Team%20Repos&color=0969da" alt="DevEnDev-Team Repositories" />
+    </a>
+  </p>
 </div>
 
 <br/><br/>
@@ -86,7 +94,6 @@
 
 </div>
 
-
 <br/><br/>
 
 <!-- Contribution Snake -->
@@ -95,13 +102,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mangozmorgan/mangozmorgan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/mangozmorgan/mangozmorgan/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br/>
 
 <!-- Bottom Animated Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:712cf5,100:ff477e&height=100&section=footer" width="100%" />
+
 
 
 
