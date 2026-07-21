@@ -104,7 +104,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mangozmorgan/mangozmorgan/output/github-contribution-grid-snake.svg" alt="Snake contribution grid" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mangozmorgan/mangozmorgan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mangozmorgan/mangozmorgan/output/github-snake.svg" />
+    <img alt="Snake contribution grid" src="https://raw.githubusercontent.com/mangozmorgan/mangozmorgan/output/github-snake.svg" />
+  </picture>
 </div>
 
 <br/>
@@ -112,6 +116,7 @@
 <div align="center">
   <code>Formateur Web & Logiciel | DevEnDev-Team | Marseille, France</code>
 </div>
+
 
 
 
