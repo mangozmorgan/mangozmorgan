@@ -6,10 +6,12 @@
 
   <br/><br/>
 
-  <!-- Animated Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:712cf5,100:ff477e&height=180&section=header&text=MORGAN&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Formateur%20Web%20%26%20Logiciel%20%E2%80%A2%20DevEnDev-Team&descAlignY=65&descAlign=50" width="100%" />
+  <!-- Monospace Animated Typing Title -->
+  <a href="https://github.com/mangozmorgan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Formateur+Web+%26+Logiciel;Accompagnateur+P%C3%A9dagogique+%40+La+Plateforme;DevEnDev-Team+Open-Source;Passionn%C3%A9+d'écosyst%C3%A8me+JavaScript+%2F+TypeScript" alt="Typing Title" />
+  </a>
 
-  <br/>
+  <br/><br/>
 
   <!-- Views Counter & Badges Header -->
   <p align="center">
@@ -111,8 +113,10 @@
 
 <br/>
 
-<!-- Bottom Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:712cf5,100:ff477e&height=100&section=footer" width="100%" />
+<div align="center">
+  <code>Formateur Web & Logiciel | DevEnDev-Team | Marseille, France</code>
+</div>
+
 
 
 
