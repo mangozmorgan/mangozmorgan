@@ -54,11 +54,9 @@
     <a href="https://github.com/DevEnDev-Team" target="_blank">
       <img src="https://img.shields.io/badge/DevEnDev--Team-Espace_Open--Source-712cf5?style=for-the-badge&logo=github&logoColor=white" alt="DevEnDev-Team" />
     </a>
-    <a href="https://github.com/DevEnDev-Team" target="_blank">
-      <img src="https://img.shields.io/github/search/DevEnDev-Team/repo?style=for-the-badge&logo=github&label=DevEnDev-Team%20Repos&color=0969da" alt="DevEnDev-Team Repositories" />
-    </a>
   </p>
 </div>
+
 
 <br/><br/>
 
