@@ -1,11 +1,6 @@
 
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://raw.githubusercontent.com/mangozmorgan/mangozmorgan/master/image.png" alt="Morgan Banner" width="450" />
-
-  <br/><br/>
-
   <!-- Monospace Animated Typing Title -->
   <a href="https://github.com/mangozmorgan">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Formateur+Web+%26+Logiciel;Accompagnateur+P%C3%A9dagogique+%40+La+Plateforme;DevEnDev-Team+Open-Source;Passionn%C3%A9+d%27%C3%A9cosyst%C3%A8me+JavaScript+%2F+TypeScript" alt="Typing Title" />
