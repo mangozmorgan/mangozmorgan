@@ -2,7 +2,7 @@
 
   <!-- Monospace Animated Typing Title -->
   <a href="https://github.com/mangozmorgan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Formateur+Web+%26+Logiciel;Accompagnateur+P%C3%A9dagogique+%40+La+Plateforme;D%C3%A9veloppeur+Fullstack+JS+%2F+TS+%2F+Java;Passionn%C3%A9+de+p%C3%A9dagogie+%26+d%27architecture+web" alt="Typing Title" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Formateur+Web+%26+Logiciel;D%C3%A9veloppeur+Web+%26+Logiciel;Accompagnateur+P%C3%A9dagogique+%40+La+Plateforme;Espace+Projets+DevEnDev-Team" alt="Typing Title" />
   </a>
 
   <br/><br/>
