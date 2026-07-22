@@ -48,25 +48,7 @@
   </tr>
 </table>
 
-<br/>
 
----
-
-### DOMAINES DE COMPÉTENCES & ENSEIGNEMENT
-
-```
-  ┌───────────────────────────────┬───────────────────────────────┐
-  │ Développement Web & Mobile    │ Back-End & Architectures      │
-  │   - JavaScript (ES6+), TS     │   - Node.js, Express, NestJS  │
-  │   - Angular, React, HTML5/CSS3│   - Java, Python, Go, PHP     │
-  ├───────────────────────────────┼───────────────────────────────┤
-  │ Bases de données & SGBD       │ DevOps & Infrastructure       │
-  │   - PostgreSQL, MySQL         │   - Docker & Conteneurisation │
-  │   - MongoDB (NoSQL)           │   - Git, GitHub, Linux        │
-  └───────────────────────────────┴───────────────────────────────┘
-```
-
-<br/>
 
 ---
 
@@ -76,17 +58,17 @@
   <table border="0">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=mangozmorgan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mangozmorgan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="175"/>
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangozmorgan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mangozmorgan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175"/>
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangozmorgan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mangozmorgan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -144,6 +126,5 @@
 ---
 
 <div align="center">
-  <blockquote><i>"Apprendre, pratiquer, transmettre."</i></blockquote>
   <code>Formateur Web & Logiciel | La Plateforme | Marseille, France</code>
 </div>
